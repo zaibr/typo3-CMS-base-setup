@@ -1,5 +1,5 @@
 {
-	"name": "zaibr/typo3-CMS-base-setup",
+	"name": "zaibr/typo3-cms-base-setup",
 	"description" : "TYPO3 10.4 CMS Base Distribution incl most important extensions",
 	"license": "GPL-2.0-or-later",
 	"config": {
